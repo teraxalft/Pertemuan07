@@ -1,0 +1,126 @@
+{
+	"info": {
+		"_postman_id": "6a3d624e-7cae-4dc6-8683-3501516134ff",
+		"name": "Latihan07",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44169407"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Java\", \"author\": \"Jennie\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Belajar Java\", \"author\": \"Sherly\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Belajar REST API\", \"author\": \"Wannandy\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Hebat Bahasa 1 Hari\", \"author\": \"Andru\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
