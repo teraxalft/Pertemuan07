@@ -1,4 +1,6 @@
 # Pertemuan07
 Latihan dan Tugas
 
-## Materi Tentang Penggunaan Java API seperti POST, GET, PUT, DELETE
+## Screenshotan hasil pekerjaan saat menambah, mengubah, menghapus, dan menampilkan data.
+
+1. Menambahkan Data (Post)
