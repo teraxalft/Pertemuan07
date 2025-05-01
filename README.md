@@ -1,8 +1,8 @@
 # Pertemuan07 (Latihan dan Tugas)
-### Nama: Oktria Taranasta
-### NIM: 23100011
-### Mata Kuliah: Pemrograman Berorientasi Objek 2
-### Kelas: STI-A
+#### Nama: Oktria Taranasta
+#### NIM: 23100011
+#### Mata Kuliah: Pemrograman Berorientasi Objek 2
+#### Kelas: STI-A
 ## Screenshotan hasil pekerjaan saat menambah, mengubah, menghapus, dan menampilkan data.
 
 ### 1. Menambahkan Data (Post)
