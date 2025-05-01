@@ -3,43 +3,30 @@
 #### NIM: 23100011
 #### Mata Kuliah: Pemrograman Berorientasi Objek 2
 #### Kelas: STI-A
-## Screenshotan hasil pekerjaan saat menambah, mengubah, menghapus, dan menampilkan data.
 
-### 1. Menambahkan Data (Post)
 
-   Menambahkan Data
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Latihan7(Tombol%20Tambah%20berfungsi).png?raw=true)
-   
-   Data Berhasil Ditambahkan
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(Bagian%20menambahkan%20Buku).png?raw=true)
+![alt text](?raw=true)
+### Latihan 04 - Uji API Latihan 03
+#### 1. Get Books
+![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Get%20books.png?raw=true)
+#### 2. Get Book 1
+![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Get%20book%201.png?raw=true)
+#### 3. Post Books
+![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Post%20books.png?raw=true)
+#### 4. Put Books
+![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Put%20book%201.png?raw=true)
+#### 5. Delete Book 1
+![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Delete%20book%201.png?raw=true)
 
-   
-### 2. Mengubah Data (Put)
+### Latihan 05 - Menampilkan tampilan GUI dengan data yang sudah di-input di Postman
+![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tampilan%20data%20yang%20sebelum%20di-input%20di%20Postman.png?raw=true)
+![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Menampilkan%20tampilan%20data%20yang%20sudah%20di-input%20di%20Postman.png?raw=true)
 
-   Data Buku Diedit
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(Judul%20Buku%20di%20edit).png?raw=true)
+### Latihan 06 - Menguji tombol Refresh
+#### 1. Get Book - Sebelum meng-input data
+![alt text](?raw=true)
+#### 2. Get Book - Setelah menekan tombol refresh
+![alt text](?raw=true)
 
-   Data Buku Berhasil Diedit
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(Tampilan%20sesudah%20buku%20diedit).png?raw=true)
-   
-   
-### 3. Menghapus Data (Delete)
-
-   Data dihapus (yakin apa ngak)
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(Pemberitahuan%20yakin%20hapus%20apa%20ngak).png?raw=true)
-   
-   Data Gagal Dihapus
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(pemberitahuan%20Gagal%20menghapus).png?raw=true)
-   
-   Data Berhasil Dihapus Setelah Tombol Refresh ditekan
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(setelah%20menekan%20tombol%20refresh).png?raw=true)
-   
-   
-### 4. Menampilkan Data (Get)
-
-   Menampilkan Data (Latihan05)
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Latihan%205(Tabel%20muncul).png?raw=true)
-   
-   Menampilkan Data (Latihan06)
-   ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Latihan6(Tombol%20Refresh%20Berhasil%20di%20tambahkan).png?raw=true)
-  
+### Latihan 07 - Pengujian input data melalui GUI
+### TUGAS - Menguji tombol Edit dan Delete
