@@ -5,7 +5,7 @@
 #### Kelas: STI-A
 
 
-![alt text](?raw=true)
+
 ### Latihan 04 - Uji API Latihan 03
 #### 1. Get Books
 ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Get%20books.png?raw=true)
