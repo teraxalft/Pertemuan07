@@ -1,8 +1,8 @@
 # Pertemuan07 (Latihan dan Tugas)
-Nama: Oktria Taranasta
-NIM: 23100011
-Mata Kuliah: Pemrograman Berorientasi Objek 2
-Kelas: STI-A
+  Nama: Oktria Taranasta
+  NIM: 23100011
+  Mata Kuliah: Pemrograman Berorientasi Objek 2
+  Kelas: STI-A
 
 ## Latihan 04 - Uji API Latihan 03
 ### 1. Get Books
