@@ -49,7 +49,7 @@
 ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(Tampilan%20sesudah%20buku%20diedit).png?raw=true)
 #### 4. Get Books - Tampilan di Postman Setelah satu data diedit
 ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tampilan%20di%20postman%20sesudah%20diedit.png?raw=true)
-#### 5. Tampilan Delete Book - 
+#### 5. Tampilan Delete Book - Memilih data yang ingin di-delete dan menekan tombol delete, kemudian tombol konfirmasi. (terdapat pesan gagal, jadi kita perlu menekan tombol refresh untuk memastikan data terhapus apa tidak)
 ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(Pemberitahuan%20yakin%20hapus%20apa%20ngak).png?raw=true)
 ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(pemberitahuan%20Gagal%20menghapus).png?raw=true)
 ![alt text](https://github.com/teraxalft/Pertemuan07/blob/main/Picture/Tugas(setelah%20menekan%20tombol%20refresh).png?raw=true)
