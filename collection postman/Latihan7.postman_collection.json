@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "23152611-d329-4f2a-96e7-0df2a0021129",
+		"name": "Latihan7",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44169407"
+	},
+	"item": [
+		{
+			"name": "Books",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4567/api/books",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
